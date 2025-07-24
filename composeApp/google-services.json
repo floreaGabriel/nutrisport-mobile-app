@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "991901757783",
+    "project_id": "capable-epigram-466407-q7",
+    "storage_bucket": "capable-epigram-466407-q7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991901757783:android:270a10481666f57ccace12",
+        "android_client_info": {
+          "package_name": "com.floreagabriel.nutrisport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991901757783-jc2eq0kq1qav1d7ag13mlugr32ul9n08.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.floreagabriel.nutrisport",
+            "certificate_hash": "5cda0f4e20365ee9c6cd3d0e2229e983bbd6debc"
+          }
+        },
+        {
+          "client_id": "991901757783-m7ianeb6shjs0kj6ut3s78ovj1nhprs6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXPvfyCRiopAa4OhTc_xumH60TRhE07Hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991901757783-m7ianeb6shjs0kj6ut3s78ovj1nhprs6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
